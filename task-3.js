@@ -1,0 +1,8 @@
+/**
+ * -------------Practice Task-------------
+ * WRITE A LOOP THAT GOES FROM 1 TO 100, BUT STOPS (USING BREAK) WHEN IT ENCOUNTERS THE FIRST SQUARE NUMBER (LIKE 4, 9, 16,ETC)
+ */
+
+
+
+
