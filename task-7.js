@@ -7,6 +7,10 @@
  * FIND ALL THE EVEN NUMBERS FROM 78 TO 98
  */
 
-for(let num = 61; num < 100; num = num+2){
-    console.log(num);
+// for(let num = 61; num < 100; num = num+2){
+//     console.log(num);
+// }
+
+for(let evenNum = 78; evenNum <= 98; evenNum = evenNum + 2){
+    console.log(evenNum);
 }
