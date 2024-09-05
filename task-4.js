@@ -22,6 +22,7 @@ while(num <= 40){
     num++;
 }
 
+
 // let num = 1;
 
 // while(num <= 40){
